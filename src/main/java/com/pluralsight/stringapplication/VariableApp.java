@@ -20,6 +20,5 @@ public class VariableApp {
         System.out.println("My favorite letter:" + favoriteLetter);
         boolean rainWeather = false;
         System.out.println("Weather outside:" + rainWeather);
-
     }
 }
